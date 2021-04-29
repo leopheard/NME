@@ -21,12 +21,13 @@
     <source>https://github.com/leopheard/NME</source>
     <website>radio.nme.com</website>
         	<assets>
-			<icon>resources/media/icon1.jpg</icon>
+			<icon>resources/media/icon.jpg</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
 			<screenshot>resources/media/1.jpg</screenshot>
 			<screenshot>resources/media/2.jpg</screenshot>
+			<screenshot>resources/media/icon1.jpg</screenshot>
+			<screenshot>resources/media/fanart.jpg</screenshot>
 			<screenshot>resources/media/fanart1.jpg</screenshot>
-			<screenshot>resources/media/fanart2.jpg</screenshot>
 		</assets>
   </extension>
 </addon>
