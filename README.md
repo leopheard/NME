@@ -1,6 +1,6 @@
 <a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="radio.nme.com">NME Live Radio</a> feeds.<br>
 
-<img src="https://radio.nme.com/static/media/nme-logo.90e19a34.svg"><br>
+<img src="https://github.com/leopheard/NME/blob/master/resources/media/fanart1.jpg?raw=true"><br>
 
 NME.com radio live streams:<br>
 
